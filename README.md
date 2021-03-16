@@ -19,4 +19,5 @@ Skills:
 
 
 Links:
+- Portfolio: https://s-ferrara.fr
 - Linked In: https://www.linkedin.com/in/sim%C3%A9on-ferrara-667468176/
