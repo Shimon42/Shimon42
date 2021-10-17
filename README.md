@@ -8,6 +8,10 @@ Mastered languages:
 - SQL
 - C
 
+Frameworks:
+- Jquery
+- Bootstrap
+- React
 
 Skills:
 - Web App developpement
