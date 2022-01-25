@@ -1,5 +1,3 @@
-Student at 42School Lyon, FR and WebMaster for JoonSoft Lyon
-
 Mastered languages:
 - HTML
 - CSS
@@ -21,7 +19,3 @@ Skills:
 - Adobe Photoshop / XD
 - Shell scripts
 
-
-Links:
-- Portfolio: https://s-ferrara.fr 
-- Linked In: https://www.linkedin.com/in/sim%C3%A9on-ferrara-667468176/
