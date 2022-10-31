@@ -1,3 +1,12 @@
+
+✨ Passionate developer for more than 10 years
+
+🖥️ Design Office / FullStack Development / Webmaster for 4 years for JoonSoft
+
+💀 Linked In makes me wanna die
+
+---
+
 Mastered languages:
 - HTML
 - CSS
@@ -5,17 +14,18 @@ Mastered languages:
 - PHP
 - SQL
 - C
+- Bash
 
-Frameworks:
-- Jquery
+Web Frameworks:
+- JQuery
 - Bootstrap
 - React
+- Node
 
 Skills:
-- Web App developpement
+- Web App development
 - Dashboard interfaces
-- API developpement/installation
-- UI design/integration and UX reflexions
-- Adobe Photoshop / XD
+- API development / integration
+- UI design / integration and UX reflexions
+- Adobe Photoshop / XD/ Figma
 - Shell scripts
-
