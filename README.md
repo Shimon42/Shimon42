@@ -1,7 +1,7 @@
 
 ✨ Passionate developer for more than 10 years
 
-🖥️ Design Office / FullStack Development / Webmaster for 4 years for JoonSoft
+🖥️ Design Office / FullStack Development / Webmaster for 4 years
 
 💀 Linked In makes me wanna die
 
