@@ -20,7 +20,6 @@ Web Frameworks:
 - JQuery
 - Bootstrap
 - React
-- Node
 
 Skills:
 - Web App development
