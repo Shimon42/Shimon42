@@ -11,7 +11,7 @@ Mastered languages:
 - HTML
 - CSS / SCSS / Tailwind
 - Javascript / TypeScript
-- PHP
+- PHP / Symfony / Doctrine
 - SQL
 - C
 - Bash
@@ -19,7 +19,7 @@ Mastered languages:
 Web Frameworks:
 - JQuery
 - Bootstrap
-- React
+- React / React Native
 
 Tools:
 - Cypress
